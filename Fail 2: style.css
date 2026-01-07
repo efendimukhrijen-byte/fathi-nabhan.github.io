@@ -1,0 +1,65 @@
+body{
+  margin:0;
+  font-family: Arial, sans-serif;
+  background:#f6f7fb;
+  color:#333;
+}
+
+.hero{
+  background:#0b2c54;
+  color:white;
+  text-align:center;
+  padding:80px 20px;
+}
+
+.btn{
+  display:inline-block;
+  margin-top:20px;
+  padding:12px 30px;
+  background:#ffcc00;
+  color:black;
+  text-decoration:none;
+  font-weight:bold;
+  border-radius:6px;
+}
+
+section{
+  padding:60px 20px;
+  text-align:center;
+}
+
+.benefit ul{
+  list-style:none;
+  padding:0;
+}
+
+.benefit li{
+  margin:10px 0;
+}
+
+.price .old{
+  text-decoration:line-through;
+  color:red;
+}
+
+.price .new{
+  font-size:28px;
+  color:green;
+  font-weight:bold;
+}
+
+.order .whatsapp{
+  display:inline-block;
+  background:#25d366;
+  color:white;
+  padding:15px 30px;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+footer{
+  background:#111;
+  color:#aaa;
+  text-align:center;
+  padding:20px;
